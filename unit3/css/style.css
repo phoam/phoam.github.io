@@ -1,0 +1,19 @@
+h1 {
+	font-family: helvetica, sans-serif;
+	color: #FFA500;
+}
+
+body {
+	font-family: helvetica, sans-serif;
+	background-size: cover;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 21px;
+}
+
+#contact {
+	color: #FFA500;
+	text-decoration: underline;
+}
