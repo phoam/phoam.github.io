@@ -1,0 +1,92 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed);
+
+
+
+h1 { 
+	font-family: 'Lobster', cursive;
+	font-size: 4em;
+	text-align: center;
+	padding: 1em; 
+}
+
+nav {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1em;
+ 	background-color: #aaaaaa;
+ 	float: none;
+}
+
+nav a {
+	background-color: #aaaaaa;
+	color: white;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 20px;
+	margin: 0 2em;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+a:hover {
+	background-color: orange;
+}
+
+img {
+	width: 100%;
+}
+
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+	width: 1020px;
+}
+
+#email {
+	width: 1020px;
+	background-color: #aaaaaa;
+	text-align: center;
+	padding: 1em 0;
+	color: white;
+	font-size: 1.2em;
+}
+
+div p {
+	color: white;
+	padding: .5em;
+	font-size: 1.2em;
+}
+
+section {
+  background: orange;
+  color:#fff;
+  overflow: auto;
+}
+
+section h2 {
+	text-align: center;
+	padding: 1em;
+	font-size: 3em;
+}
+
+.column {
+	float: left;
+	width: 300px;
+	height: 100px;
+	padding: 20px;
+	margin: 0;
+	text-align: center;
+}
+
+.columnheader {
+	font-size: 1.5em;
+}
+
+
